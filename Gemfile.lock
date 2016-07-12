@@ -22,7 +22,6 @@ PLATFORMS
 DEPENDENCIES
   json_pure
   puma
-  rake
   sinatra
   test-unit
 
